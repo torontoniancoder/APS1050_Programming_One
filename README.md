@@ -1,6 +1,11 @@
+# Software Checkpoint - Modification of the Election DAPP Tutorial
+This is a learning project and implementation of the Election DAPP Tutorial.
 
-# Election - DAPP Tutorial
-Build your first decentralized application, or Dapp, on the Ethereum Network with this tutorial!
+This project has been made as part of the course APS1050 Blockchain and Cryptocurrencies at the University of Toronto, 2021.
+
+The interface, some packages and functions were improved for the specific scenario of a checkpoint for the users who may choose their preferred Licence Option before starting to use a commercial solution.
+
+Election DAPP Tutorial follows.
 
 Full Free Video Tutorial:**
 https://youtu.be/3681ZYbDSSk

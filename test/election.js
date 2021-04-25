@@ -1,7 +1,7 @@
-var Election = artifacts.require("./Election.sol");
+var Software = artifacts.require("Software");
 
-contract("Election", function(accounts) {
-  var electionInstance;
+contract("Software", function(accounts) {
+  var licenceInstance;
 
   it("initializes with two candidates", function() {
     return Election.deployed().then(function(instance) {
