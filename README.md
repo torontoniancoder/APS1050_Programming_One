@@ -1,6 +1,8 @@
 # Software Checkpoint - Modification of the Election DAPP Tutorial
 This is a learning project and implementation of the Election DAPP Tutorial.
 
+ATTENTION! This repository is optimized for Linux Fedora. If your development environment is running on the other operating systems, please make sure to check the dependencies with your relevant package managers.
+
 This project has been made as part of the course APS1050 Blockchain and Cryptocurrencies at the University of Toronto, 2021.
 
 The interface, some packages and functions were improved for the specific scenario of a checkpoint for the users who may choose their preferred Licence Option before starting to use a commercial solution.
