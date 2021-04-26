@@ -88,17 +88,18 @@ App = {
     web3.eth.getCoinbase(function(err, account) {
       if (err === null) {
         App.account = account;
-        $("#accountAddress").html("Your Account: " + account);
+        $("#accountAddress").html(account[37] + account[38] + account[39] + account[40] + account[41]);
       }
     });
 
     // var instance = await  App.contracts.Software.deployed();
     // web3.eth.defaultAccount = accounts[0]; 
     // var balance = await instance.getBalance(accounts[0]);
-    web3.eth.getAccounts(function(err, addressToString) {
+    var addressToString1
+    web3.eth.getAccounts(function(err, addressToString1) {
       if (err === null) {
-        App.addressToString = addressToString;
-        $("#UserID").html("Your Balance: " + addressToString);
+        App.address = addressToString1;
+        $("#UserID").html("Your Full Address: " + addressToString1);
       }
     });
 

@@ -6963,12 +6963,12 @@
     "1337": {
       "events": {},
       "links": {},
-      "address": "0xC3F95db3a8c0e1F409642Dc28B34524018E125Ac",
-      "transactionHash": "0x303e9369e47de6ad9e6c32a119566a5f11ff04126a4ffcc2fb46183cfbc12c91"
+      "address": "0xC3ff58Ea12e5a3E15df1d7382A9f12764dc3ab37",
+      "transactionHash": "0x4aa8482bed226b25da4990e298deebd6ae7cd3d1af240b39c8580c56b1ab0746"
     }
   },
   "schemaVersion": "3.4.0",
-  "updatedAt": "2021-04-25T01:25:48.665Z",
+  "updatedAt": "2021-04-26T01:45:15.870Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
