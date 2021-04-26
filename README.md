@@ -32,6 +32,8 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 ```
 $ cd election
 $ npm install
+$ yarn add browser-sync
+$ yarn add gulp --save-dev
 ```
 ## Step 3. Start Ganache
 Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance. See free video tutorial for full explanation.
